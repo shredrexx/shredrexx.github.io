@@ -1,0 +1,37 @@
+*{
+    background-color: black;
+    font-family: 'Bebas Neue', sans-serif;
+}
+h1{
+    color:orange;
+    text-align: center;
+    width: 100%;
+    font-size: 150px;         
+}
+h3{
+    color: orange;
+    text-align: center;
+    width: 100%;
+    font-size: 100px;
+}
+.anger{
+    color: red;
+    font-size: 130px;
+}
+h2{
+    color: orange;
+    float: left;
+    font-size: 50px;
+    clear: both;
+}
+p{
+    color: orange;
+    float: left;
+    font-size: 50px;
+}
+img {
+    height: 500px;
+    width: auto;
+    display: block;
+    clear: both;
+}
